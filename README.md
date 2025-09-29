@@ -1,27 +1,71 @@
 <div align="center">
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=Ganzzi&style=flat-square&color=blue" alt=""/>
-</div>
+  <h1>Nguyen Trinh Duy An — Ganzzi</h1>
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://logowik.com/content/uploads/images/expo4769.logowik.com.webp" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"  title="TailwindCss" alt="TailwindCss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" title="ExpressJs" alt="ExpressJs" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+
+*Currently focused on entrepreneurship and AI startup building — open to strategic partnerships.*  <p>Full-stack developer focused on AI agents, multi-agent systems, and open-source components. Building pluggable infrastructure for AI-powered apps.</p>  
+  <img src="https://komarev.com/ghpvc/?username=Ganzzi&style=flat-square&color=blue" alt="profile-views" />
 </div>
 
 ---
 
+## About
+AI Agent systems engineer passionate about multi-agent architectures, scalable infrastructure, and building AI-first startups. I design and build the foundational components that power intelligent agent teams: memory systems, context management, queuing, and communication protocols.
+
+Started as a full-stack developer, graduated FPT Aptech (2024) with a 50% scholarship. Now focused entirely on AI agent technologies, hardware infrastructure for scaling AI projects, and entrepreneurship in the AI space.
+
+## Quick Links
+- Email: boinguyen9701@gmail.com
+- GitHub: https://github.com/Ganzzi
+- LinkedIn: https://www.linkedin.com/in/nguyen-trinh-duy-an-b7b594239/
+- X: https://x.com/Ganzzi_bian
+- Instagram: https://www.instagram.com/ganzzi.nguoibian/
+- RV Now (App Store): https://apps.apple.com/vn/app/rv-now/id6741457473
+
+---
+
+## Tech & Focus
+- **Core Languages:** Rust, Python, Dart
+- **AI Specialization:** Multi-Agent Systems, AI Agent Context Engineering, Memory Architecture
+- **Infrastructure:** Docker, Proxmox, Hardware scaling for AI workloads, Cloudflare Tunnel
+- **AI Stack:** RAG systems, pgvector, Neo4j, n8n, Ollama, OpenAI/Anthropic/Google APIs
+- **Databases:** PostgreSQL, Neo4j (graph), Redis (caching)
+- **Previous Experience:** Full-stack (Flutter, React, .NET, Spring), Blockchain (Solidity)
+
+---
+
+## Current Focus & Selected Work
+- **Multi-Agent System Architecture** — Building comprehensive agent teams with specialized memory, context, and communication systems
+- **Data Structures & Algorithms (Rust)** — CS fundamentals and system design patterns. https://github.com/Ganzzi/Data-Structures-Algorithms
+- **AI Infrastructure Scaling** — Hardware and deployment strategies for AI workload optimization
+
+### Previous Projects (Portfolio)
+- Riviu Now — Spaced repetition learning app (archived). https://apps.apple.com/vn/app/rv-now/id6741457473
+- Ignite Hack - NEAR Hackathon Winner project ($1000 prize)
+- Various full-stack & blockchain projects during academic journey
+
+---
+
+## Open Source Roadmap
+Building the foundational infrastructure for multi-agent AI systems through a series of Python packages:
+
+1. **Memory** — Agent memory management (active/short/long-term with Postgres + Neo4j)
+2. **Context Bridge** — RAG system for external knowledge access
+3. **Doc Cloud** — Document management for AI agents
+4. **Proxmoxer** — Agent access to Proxmox VMs as workstations
+5. **Queuing** — Agent + LLM queue management and rate limiting
+6. **Messaging** — Unified communication protocol for agent teams
+7. **Agent** — Core runtime, LLM config, tools, multi-provider support
+
+Follow this profile for release announcements.
+
+---
+
+## How to Collaborate
+- Want to partner on agent infrastructure or AI apps? DM on X or LinkedIn, or email me at boinguyen9701@gmail.com.
+- I’m focusing on entrepreneurship and open-source growth — open to strategic partnerships rather than full-time offers right now.
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganzzi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
